@@ -7,7 +7,7 @@ public class FirstDay {
  System.out.println("My day 1");
  for(int i=0;i<=10;i++)
  {
-	 System.out.println(i);
+	 System.out.println(i+10);
  }
 	}
 
